@@ -4,15 +4,7 @@
 
 ## Introduction
 
-This post covers some basic guidelines, tips, resources, and practical steps for new programmers - especially for those of us who are doing it purely for fun (and potentially profit) without any prior coding experience or external motivation. A basic disclaimer, I’m not sure whether this makes me more or less qualified to write this, but I’ve only been coding part time for a little over a year and am still very much in the learning process. This tutorial is written as much for myself as for you.
-
-<br>
-
-## Helpful Stuff
-
-The following list of guidelines, tips, resources, and practical steps is not meant to be exhaustive (or exhausting) and should serve only as a guideline. They are, perhaps most accurately, a roadmap of my own first year with Game Maker. 
-
-I hope it helps.
+This document covers some basic guidelines, tips, resources, and practical steps for new programmers - especially for those of us who are doing it purely for fun (and potentially profit) without any prior coding experience or external motivation. The following list of guidelines, tips, resources, and practical steps is not meant to be exhaustive (or exhausting) and should serve only as a guideline. I hope it helps.
 
 <br>
 
@@ -59,7 +51,7 @@ Read the forum posts. Don’t just ask for help or answer questions. Read posts 
 
 ## Helpful Coding Tips
 
-Learn how to debug. Debugging, or more generally figuring out why something you thought should work isn’t, is probably one of the most useful skills you can learn after learning how to do something. You learn how to do something, then you try it, it doesn’t work, and you learn how to figure out why. Unfortunately, there aren’t a lot of good videos out there on debugging. At a minimum though, learn how to use the debugger and similar things (such as show_debug_message).
+- Learn how to debug. Debugging, or more generally figuring out why something you thought should work isn’t, is probably one of the most useful skills you can learn after learning how to do something. You learn how to do something, then you try it, it doesn’t work, and you learn how to figure out why. Unfortunately, there aren’t a lot of good videos out there on debugging. At a minimum though, learn how to use the debugger and similar things (such as show_debug_message).
 
 - Don't be afraid to think through a problem before you start coding. Don't be afraid to design the structure of what you want before you actually start working towards it. This includes not only big things like your game design as a whole, but small things like how you want your camera system to work.Break problems down into smaller problems. 
 
