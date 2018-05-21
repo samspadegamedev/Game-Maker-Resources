@@ -98,12 +98,14 @@ Coding is fun, and making games is fun, I hope this helps you to do both.
 - [Link to the Marketplace](https://marketplace.yoyogames.com/)
 
 - List of (and links to) a number of YouTuber’s with complete, or fairly complete, series designed for complete beginners:
+
   - [Shaun Spalding](https://www.youtube.com/user/999Greyfox/featured?disable_polymer=1)
   - [Friendly Cosmonaut](https://www.youtube.com/channel/UCKCKHxkH8zqV9ltWZw0JFig)
   - [Gloomy Toad Studios](https://www.youtube.com/channel/UCmSLCkK6I5cONb-5N0v18Kw)
   - [Heartbeast](https://www.youtube.com/user/uheartbeast)  
 
-- Links to some good places to get math videos (to watch for fun or future reference)
+- Links to some good places to get math videos (to watch for fun or future reference):
+
   - [Coding Math](https://www.youtube.com/user/codingmath)
   - [Math for Game Developers](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w)
   - [Khan Academy](https://www.youtube.com/user/khanacademy) 
@@ -112,13 +114,15 @@ Coding is fun, and making games is fun, I hope this helps you to do both.
 
 - [Links to an Extra Credit Videos series on Making Games in General](https://www.youtube.com/watch?v=z06QR-tz1_o&list=PLhyKYa0YJ_5C6QC36h5eApOyXtx98ehGi)
 
-- Links to talks by people who have made hit games with Game Maker
+- Links to talks by people who have made hit games with Game Maker:
+
   - [Crashlands](https://www.youtube.com/watch?v=LQHtOg46eOw&t=1s)
   - [Gunpoint](https://www.youtube.com/watch?v=aXTOUnzNo64&t=1s)
   - [Nuclear Throne](https://www.youtube.com/watch?v=5-3VFOWrgpU&t=1s)
   - [Downwell](https://www.youtube.com/watch?v=M8SwpDKAWdg)
 
-- Links to Resources outside of Game Maker
+- Links to Resources outside of Game Maker:
+
   - [Coding Train](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2)
   - [Computer Science Playlist](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
