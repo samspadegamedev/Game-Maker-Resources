@@ -111,10 +111,10 @@ Coding is fun, and making games is fun, I hope this helps you to do both.
 - Links to an Extra Credit Videos series on Making Games in General
 
 - Links to talks by people who have made hit games with Game Maker
- - Crashlands
- - Gunpoint
- - Nuclear Throne
- - Downwell
+  - Crashlands
+  - Gunpoint
+  - Nuclear Throne
+  - Downwell
 
 - Links to Resources outside of Game Maker
 - - Coding Train
