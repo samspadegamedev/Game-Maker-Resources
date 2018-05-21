@@ -96,15 +96,15 @@ Coding is fun, and making games is fun, I hope this helps you to do both.
 - Link to the Marketplace
 
 - List of (and links to) a number of YouTuber’s with complete, or fairly complete, series designed for complete beginners:
-- - Shaun Spalding
-- - Friendly Cosmonaut
-- - Gloomy Toad Studios
-- - Heartbeast  
+  - Shaun Spalding
+  - Friendly Cosmonaut
+  - Gloomy Toad Studios
+  - Heartbeast  
 
 - Links to some good places to get math videos (to watch for fun or future reference)
-- - Coding Math
-- - Math for Game Developers
-- - Khan Academy 
+  - Coding Math
+  - Math for Game Developers
+  - Khan Academy 
 
 - Link to a basic logic primer
 
@@ -117,8 +117,8 @@ Coding is fun, and making games is fun, I hope this helps you to do both.
   - Downwell
 
 - Links to Resources outside of Game Maker
-- - Coding Train
-- - Computer Science Playlist
+  - Coding Train
+  - Computer Science Playlist
 
 
 
