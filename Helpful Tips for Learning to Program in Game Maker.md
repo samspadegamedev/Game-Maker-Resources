@@ -1,6 +1,6 @@
 # Helpful Tips for Learning to Program in Game Maker
 
-
+<br><br>
 
 
 
