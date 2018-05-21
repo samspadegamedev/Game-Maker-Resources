@@ -87,9 +87,9 @@ Coding is fun, and making games is fun, I hope this helps you to do both.
 
 <br>
 
-- Link to the GMS 1 Manual
+- [Link to the GMS 1 Manual] (https://docs.yoyogames.com/source/dadiospice/index.html)
 
-- Link to the GMS 2 Manual
+- [Link to the GMS 2 Manual] (https://docs2.yoyogames.com/source/_build/index.html)
 
 - Link to the programing forum
 
