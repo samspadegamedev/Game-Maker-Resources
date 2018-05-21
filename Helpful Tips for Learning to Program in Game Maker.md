@@ -116,15 +116,15 @@ Coding is fun, and making games is fun, I hope this helps you to do both.
 
 - Links to talks by people who have made hit games with Game Maker:
 
-- [Crashlands](https://www.youtube.com/watch?v=LQHtOg46eOw&t=1s)
-- [Gunpoint](https://www.youtube.com/watch?v=aXTOUnzNo64&t=1s)
-- [Nuclear Throne](https://www.youtube.com/watch?v=5-3VFOWrgpU&t=1s)
-- [Downwell](https://www.youtube.com/watch?v=M8SwpDKAWdg)
+  - [Crashlands](https://www.youtube.com/watch?v=LQHtOg46eOw&t=1s)
+  - [Gunpoint](https://www.youtube.com/watch?v=aXTOUnzNo64&t=1s)
+  - [Nuclear Throne](https://www.youtube.com/watch?v=5-3VFOWrgpU&t=1s)
+  - [Downwell](https://www.youtube.com/watch?v=M8SwpDKAWdg)
 
 - Links to Resources outside of Game Maker:
 
-- [Coding Train](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2)
-- [Computer Science Playlist](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+-- [Coding Train](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2)
+-- [Computer Science Playlist](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
 
 
