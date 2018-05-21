@@ -85,6 +85,8 @@ Coding is fun, and making games is fun, I hope this helps you to do both.
 
 # Resources
 
+<br>
+
 - Link to the GMS 1 Manual
 
 - Link to the GMS 2 Manual
