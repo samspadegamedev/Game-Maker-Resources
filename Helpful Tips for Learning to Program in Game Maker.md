@@ -2,9 +2,13 @@
 
 
 
+
+
 ## Introduction
 
 This post covers some basic guidelines, tips, resources, and practical steps for new programmers - especially for those of us who are doing it purely for fun (and potentially profit) without any prior coding experience or external motivation. A basic disclaimer, I’m not sure whether this makes me more or less qualified to write this, but I’ve only been coding part time for a little over a year and am still very much in the learning process. This tutorial is written as much for myself as for you.
+
+
 
 
 
@@ -13,6 +17,8 @@ This post covers some basic guidelines, tips, resources, and practical steps for
 The following list of guidelines, tips, resources, and practical steps is not meant to be exhaustive (or exhausting) and should serve only as a guideline. They are, perhaps most accurately, a roadmap of my own first year with Game Maker. 
 
 I hope it helps.
+
+
 
 
 
@@ -26,9 +32,19 @@ I hope it helps.
 
 
 
+
+
 ## Helpful Guidelines
 
-Stay motivated. Right now you are probably extremely motivated. That’s great! Someday, you may not be. However coding is a skill and it doesn’t happen overnight. So you need at least some motivation (or discipline) to keep at it long enough to become capable of making your game ideas a reality.  Keep coding. As mentioned, coding is a skill. The longer you do at it, the better you’ll get. This is part of why it’s important to stay motivated. A little bit every day, or every week, or even just once in awhile but consistently is enough to improve over time. Keep learning. If you’re just starting, everything is learning. However, at some point, you may be good enough to sort of make the thing you want. Don’t stop learning things then. Learn the things you want (or need), but also learn the basics. Unless you want to, don’t force yourself to watch dozens of hours of YouTube tutorials before making your first game. Do try to identify and learn the topics that come up over and over. Consider watching some of the many free YouTube computer science intro classes. A little time learning the fundamentals will go a long way.Keep your first projects small. While not the right advice for everyone, it’s the right advice for most. Small means you can finish it before becoming sick of it. Finished doesn’t need to mean polished either, not at the start. 
+- Have fun and stay motivated. Right now you are probably extremely motivated. That’s great! Someday, you may not be. However coding is a skill and it doesn’t happen overnight. So you need at least some motivation (or discipline) to keep at it long enough to become capable of making your game ideas a reality.  
+
+- Keep coding. As mentioned, coding is a skill. The longer you do at it, the better you’ll get. This is part of why it’s important to stay motivated. A little bit every day, or every week, or even just once in awhile but consistently is enough to improve over time. 
+
+- Keep learning. If you’re just starting, everything is learning. However, at some point, you may be good enough to sort of make the thing you want. Don’t stop learning things then. Learn the things you want (or need), but also learn the basics. Unless you want to, don’t force yourself to watch dozens of hours of YouTube tutorials before making your first game. Do try to identify and learn the topics that come up over and over. Consider watching some of the many free YouTube computer science intro classes. A little time learning the fundamentals will go a long way.
+
+- Keep your first projects small. While not the right advice for everyone, it’s the right advice for most. Small means you can finish it before becoming sick of it. Finished doesn’t need to mean polished either, not at the start. 
+
+
 
 
 
