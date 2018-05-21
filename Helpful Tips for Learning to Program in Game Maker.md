@@ -59,13 +59,15 @@ Read the forum posts. Don’t just ask for help or answer questions. Read posts 
 
 ## Helpful Coding Tips
 
-- Learn how to debug. Debugging, or more generally figuring out why something you thought should work, isn’t, is probably one of the most useful skills you can learn after learning how to do something. You learn how to do something, then you try it, it doesn’t work, and you learn how to figure out why. Unfortunately, there aren’t a lot of good videos out there on debugging. At a minimum though, learn how to use the debugger and similar things (such as show_debug_message). 
+Learn how to debug. Debugging, or more generally figuring out why something you thought should work isn’t, is probably one of the most useful skills you can learn after learning how to do something. You learn how to do something, then you try it, it doesn’t work, and you learn how to figure out why. Unfortunately, there aren’t a lot of good videos out there on debugging. At a minimum though, learn how to use the debugger and similar things (such as show_debug_message).
 
-- Break problems down into smaller problems.
+- Don't be afraid to think through a problem before you start coding. Don't be afraid to design the structure of what you want before you actually start working towards it. This includes not only big things like your game design as a whole, but small things like how you want your camera system to work.Break problems down into smaller problems. 
 
-- Use good variable names. 
+- If you don't know how to do something, try to break down the problem into smaller ones and solve those first.
 
-- Be organized. 
+- Use good variable names. You're going to re-read your code a lot. You might work with someone else or post code on the forum for help. The time you save typing short variable names isn't worth the time you or someone else will lose trying to understand your code later on.
+
+- Be organized and consistent. The system you use doesn't matter as much as that you use a system. Use the same variable naming process and style, use folders to organize your sprites, scripts, and objects, etc.
 
 - At some point, pick a code formatting style. Maybe not on day one, but at some point soon pick one that you like. I’ve been told that 80% of your interaction with code is re-reading what you or someone else wrote. If 80% of your time is going to be spent going over code, make your code easy to read and understandable. It’s also important if you’re going to ask for help on the forums as people are more likely to give responses if you post readable code.
 
@@ -76,18 +78,20 @@ Read the forum posts. Don’t just ask for help or answer questions. Read posts 
  The above lists are so long that I will summarize everything here:
  
  - Have fun and stay motivated.
+ 
  - Keep coding.
+ 
  - Keep learning.
 
-
+<br>
 
 ## Conclusion
 
 Coding is fun, and making games is fun, I hope this helps you to do both.
 
-<br> <br>
+<br> <br> <br>
 
-## Resources
+# Resources
 
 
 
