@@ -99,16 +99,16 @@ Coding is fun, and making games is fun, I hope this helps you to do both.
 
 - List of (and links to) a number of YouTuber’s with complete, or fairly complete, series designed for complete beginners:
 
-- [Shaun Spalding](https://www.youtube.com/user/999Greyfox/featured?disable_polymer=1)
-- [Friendly Cosmonaut](https://www.youtube.com/channel/UCKCKHxkH8zqV9ltWZw0JFig)
-- [Gloomy Toad Studios](https://www.youtube.com/channel/UCmSLCkK6I5cONb-5N0v18Kw)
-- [Heartbeast](https://www.youtube.com/user/uheartbeast)  
+  - [Shaun Spalding](https://www.youtube.com/user/999Greyfox/featured?disable_polymer=1)
+  - [Friendly Cosmonaut](https://www.youtube.com/channel/UCKCKHxkH8zqV9ltWZw0JFig)
+  - [Gloomy Toad Studios](https://www.youtube.com/channel/UCmSLCkK6I5cONb-5N0v18Kw)
+  - [Heartbeast](https://www.youtube.com/user/uheartbeast)  
 
 - Links to some good places to get math videos (to watch for fun or future reference):
 
-- [Coding Math](https://www.youtube.com/user/codingmath)
-- [Math for Game Developers](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w)
-- [Khan Academy](https://www.youtube.com/user/khanacademy) 
+  - [Coding Math](https://www.youtube.com/user/codingmath)
+  - [Math for Game Developers](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w)
+  - [Khan Academy](https://www.youtube.com/user/khanacademy) 
 
 - [Link to a basic logic primer](http://www.zweigmedia.com/RealWorld/logic/logic1.html)
 
@@ -123,8 +123,8 @@ Coding is fun, and making games is fun, I hope this helps you to do both.
 
 - Links to Resources outside of Game Maker:
 
--- [Coding Train](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2)
--- [Computer Science Playlist](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+  - [Coding Train](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2)
+  - [Computer Science Playlist](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
 
 
