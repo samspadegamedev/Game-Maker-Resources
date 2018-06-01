@@ -4,11 +4,11 @@
 
 ## Code For Animation End
 
-'''
+```
 if (image_index+image_speed >= image_number) {
   //...
 }
-'''
+```
 
 <br>
 
