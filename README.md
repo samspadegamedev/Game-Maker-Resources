@@ -1,2 +1,5 @@
 # Game-Maker-Resources
-A repository of various helpful resources for coding in Game Maker Studio
+
+<br>
+
+A repository of various resources for coding in Game Maker Studio. Feel free to add and suggest things. 
