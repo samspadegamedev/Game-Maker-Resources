@@ -14,4 +14,4 @@
 
 - [How NOT to use switch](https://forum.yoyogames.com/index.php?threads/how-not-to-use-switch.8745/#post-60948)
 
-
+- [Shaders for Hobby-Programmers in GameMaker Studio](https://www.youtube.com/playlist?list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P)
