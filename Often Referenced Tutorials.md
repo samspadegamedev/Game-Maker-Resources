@@ -15,3 +15,7 @@
 - [How NOT to use switch](https://forum.yoyogames.com/index.php?threads/how-not-to-use-switch.8745/#post-60948)
 
 - [Shaders for Hobby-Programmers in GameMaker Studio](https://www.youtube.com/playlist?list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P)
+
+- [Posting code on the Programming Forum: Do's and Dont's](https://forum.yoyogames.com/index.php?threads/posting-code-on-the-programming-forum-dos-and-donts.22926/)
+
+- [GameMaker: Passing variables into Create event](https://yal.cc/gamemaker-create-event-arguments/)
