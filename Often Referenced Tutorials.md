@@ -19,3 +19,5 @@
 - [Posting code on the Programming Forum: Do's and Dont's](https://forum.yoyogames.com/index.php?threads/posting-code-on-the-programming-forum-dos-and-donts.22926/)
 
 - [GameMaker: Passing variables into Create event](https://yal.cc/gamemaker-create-event-arguments/)
+
+)https://www.gamasutra.com/blogs/NathanRanney/20170508/297627/Building_A_Better_Animation_System_in_GameMaker_Studio.php)
