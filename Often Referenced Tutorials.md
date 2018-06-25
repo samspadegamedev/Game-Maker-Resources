@@ -20,4 +20,4 @@
 
 - [GameMaker: Passing variables into Create event](https://yal.cc/gamemaker-create-event-arguments/)
 
-)https://www.gamasutra.com/blogs/NathanRanney/20170508/297627/Building_A_Better_Animation_System_in_GameMaker_Studio.php)
+- [Building A Better Animation System in GameMaker: Studio](https://www.gamasutra.com/blogs/NathanRanney/20170508/297627/Building_A_Better_Animation_System_in_GameMaker_Studio.php)
