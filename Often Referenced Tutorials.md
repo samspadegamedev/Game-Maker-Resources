@@ -21,3 +21,5 @@
 - [GameMaker: Passing variables into Create event](https://yal.cc/gamemaker-create-event-arguments/)
 
 - [Building A Better Animation System in GameMaker: Studio](https://www.gamasutra.com/blogs/NathanRanney/20170508/297627/Building_A_Better_Animation_System_in_GameMaker_Studio.php)
+
+- [Game Maker Wave Motion Tutorial](https://csanyk.com/2012/10/game-maker-wave-motion-tutorial/)
