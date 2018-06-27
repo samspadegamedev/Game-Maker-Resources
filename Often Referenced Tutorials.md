@@ -23,3 +23,6 @@
 - [Building A Better Animation System in GameMaker: Studio](https://www.gamasutra.com/blogs/NathanRanney/20170508/297627/Building_A_Better_Animation_System_in_GameMaker_Studio.php)
 
 - [Game Maker Wave Motion Tutorial](https://csanyk.com/2012/10/game-maker-wave-motion-tutorial/)
+
+- [What's the difference: collision functions](http://gmc.yoyogames.com/index.php?showtopic=481823)
+
