@@ -26,3 +26,6 @@
 
 - [What's the difference: collision functions](http://gmc.yoyogames.com/index.php?showtopic=481823)
 
+- [GameMaker: Simplest possible custom alarms](https://yal.cc/gamemaker-custom-alarms/)
+
+
