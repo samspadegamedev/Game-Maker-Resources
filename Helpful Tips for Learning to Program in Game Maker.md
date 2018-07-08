@@ -65,6 +65,18 @@ Read the forum posts. Don’t just ask for help or answer questions. Read posts 
 
 <br>
 
+## Advance Guide ( GML )
+
+- Learn more about arrays and pass and return arrays from scripts. E.g Use Array to return X,Y from single script call.
+
+- Learn more about list, map and JSON loading to advance your external resource loadings 
+
+- For dynamic process like game end scene animation or resource loader create seprate OBJECTS for specific tasks.
+
+- Practice to handle every thing your self with out using Gamemaker builtin options to learn how things work. For example instead of using Gamemaker tiles system create your tile system and optimize it.
+
+- Learn about buffers - They are quite fast and usefull.
+
 ## Summary
 
  The above lists are so long that I will summarize everything here:
