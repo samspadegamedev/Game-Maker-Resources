@@ -63,19 +63,13 @@ Read the forum posts. Don’t just ask for help or answer questions. Read posts 
 
 - At some point, pick a code formatting style. Maybe not on day one, but at some point soon pick one that you like. I’ve been told that 80% of your interaction with code is re-reading what you or someone else wrote. If 80% of your time is going to be spent going over code, make your code easy to read and understandable. It’s also important if you’re going to ask for help on the forums as people are more likely to give responses if you post readable code.
 
+- Generally speaking, be careful with built in variables. While many are useful, they often are connected to hidden processes you don't have control over. Make sure to read the manual and understand what they are connected to before using them. Not only will coding your own give you more control, but doing so will increase your understanding in general. Prime examples are alarms, speed, hspeed, vspeed, and all image variables. 
+
+- Learn more about arrays and data structures. Arrays and the various GML data structures (list, grid, map, stack, queue, and priority queue) are very useful means of storing and handling both large and small amounts of data. Learning how and when to use each will expand the types of systems you can create.
+
+- More advanced topics include buffers, surfaces, JSON, loading external resources, and shaders are all more advance topics. While probably not topics to start with, learning about these topics is a good way to expand your ability to code.
+
 <br>
-
-## Advance Guide ( GML )
-
-- Learn more about arrays and pass and return arrays from scripts. E.g Use Array to return X,Y from single script call.
-
-- Learn more about list, map and JSON loading to advance your external resource loadings 
-
-- For dynamic process like game end scene animation or resource loader create seprate OBJECTS for specific tasks.
-
-- Practice to handle every thing your self with out using Gamemaker builtin options to learn how things work. For example instead of using Gamemaker tiles system create your tile system and optimize it.
-
-- Learn about buffers - They are quite fast and usefull.
 
 ## Summary
 
