@@ -95,6 +95,8 @@ Coding is fun, and making games is fun, I hope this helps you to do both.
 
 - [Link to the tutorial forum](https://forum.yoyogames.com/index.php?forums/tutorials.15/)
 
+- [Game Making Podcasts, YouTube Channels and Blogs](https://forum.yoyogames.com/index.php?threads/game-making-podcasts-youtube-channels-and-blogs.32113/)
+
 - [Link to the Marketplace](https://marketplace.yoyogames.com/)
 
 - List of (and links to) a number of YouTuber’s with complete, or fairly complete, series designed for complete beginners:
