@@ -131,7 +131,7 @@ Coding is fun, and making games is fun, I hope this helps you to do both.
 
 - Links to Resources outside of Game Maker:
 
-  - [Coding Train](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2)
+  - [Coding Train](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=6)
   - [Computer Science Playlist](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
 
