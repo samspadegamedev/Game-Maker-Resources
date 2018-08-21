@@ -28,4 +28,4 @@
 
 - [GameMaker: Simplest possible custom alarms](https://yal.cc/gamemaker-custom-alarms/)
 
-- [Shaun Spaldings GMS 2 Debug Mode Tutorial](https://www.youtube.com/watch?v=iJH_uTq9iOQ)
+- [Shaun Spalding's GMS 2 Debug Mode Tutorial](https://www.youtube.com/watch?v=iJH_uTq9iOQ)
