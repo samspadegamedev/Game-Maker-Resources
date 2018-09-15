@@ -1,0 +1,70 @@
+/// @description Nine Slice Box
+/// @param sprite
+/// @param x1
+/// @param y1
+/// @param x2
+/// @param y2
+
+
+//initialize variables
+var _size = sprite_get_width(argument0) / 3;
+var _x1 = argument1;
+var _y1 = argument2;
+var _x2 = argument3;
+var _y2 = argument4;
+var _width = _x2 - _x1;
+var _height = _y2 - _y1;
+
+var _columns = _width div _size;
+var _rows = _height div _size;
+
+
+#region //DRAW CORNERS
+
+//top left
+draw_sprite_part(argument0, 0, 0, 0, _size, _size, _x1, _y1);
+
+//top right
+draw_sprite_part(argument0, 0, _size * 2, 0, _size, _size, _x1 + (_columns * _size), _y1);
+
+//bottom left
+draw_sprite_part(argument0, 0, 0, _size * 2, _size, _size, _x1, _y1 + (_rows * _size));
+
+//bottom right
+draw_sprite_part(argument0, 0, _size * 2, _size * 2, _size, _size, _x1 + (_columns * _size), _y1 + (_rows * _size));
+
+#endregion
+
+
+#region //DRAW EDGES
+
+//left edge
+draw_sprite_part_ext(argument0, 0, 0, _size, _size, _size, _x1, _y1 + _size, 1, _rows - 1, c_white, 1);
+
+//right edge
+draw_sprite_part_ext(argument0, 0, _size * 2, _size, _size, _size, _x1 + (_columns * _size), _y1 + _size, 1, _rows - 1, c_white, 1);
+
+//top edge
+draw_sprite_part_ext(argument0, 0, _size, 0, _size, _size, _x1 + _size, _y1, _columns - 1, 1, c_white, 1);
+
+//bottom edge
+draw_sprite_part_ext(argument0, 0, _size, _size * 2, _size, _size, _x1 + _size, _y1 + (_rows * _size), _columns - 1, 1, c_white, 1);
+
+
+#endregion
+
+
+#region //DRAW CENTER
+
+//draw center 
+draw_sprite_part_ext(argument0, 0, _size, _size, _size, _size, _x1 + _size, _y1 + _size, _columns - 1, _rows - 1, c_white, 1);
+
+#endregion
+
+
+
+
+
+
+
+
