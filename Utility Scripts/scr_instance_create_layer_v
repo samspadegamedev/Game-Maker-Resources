@@ -1,0 +1,22 @@
+/// @description Instance Create with Variable Passing
+/// @param x
+/// @param y
+/// @param layer
+/// @param object
+/// @param ...arg
+
+
+var _arg_num = argument_count - 4;
+CREATE_VAR_ARRAY = undefined;
+CREATE_VAR_COUNT = _arg_num;
+for (var i = 0; i < _arg_num; i++) {
+    CREATE_VAR_ARRAY[i] = argument[4 + i];
+}
+var _inst = instance_create_layer(argument[0], argument[1], argument[2], argument[3]);
+CREATE_VAR_ARRAY = undefined;
+CREATE_VAR_COUNT = undefined;
+return _inst;
+
+//credit to: yellowafterlife
+//source: https://yal.cc/gamemaker-create-event-arguments/
+
