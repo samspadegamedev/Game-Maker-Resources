@@ -111,6 +111,12 @@ Coding is fun, and making games is fun, I hope this helps you to do both.
   - [Friendly Cosmonaut](https://www.youtube.com/channel/UCKCKHxkH8zqV9ltWZw0JFig)
   - [Gloomy Toad Studios](https://www.youtube.com/channel/UCmSLCkK6I5cONb-5N0v18Kw)
   - [Heartbeast](https://www.youtube.com/user/uheartbeast)  
+  
+- [Sommonly Referenced GML Tutorials](https://github.com/samspadegamedev/Game-Maker-Resources/edit/master/Often%20Referenced%20Tutorials.md)
+
+- Link to an Intermediate Level Shader Tutorial (while an intermediate level, this series is really very good for many reasons that extend far beyond just learning shaders, so if you're looking for something beyond the basics, this is where I would go):
+
+  - [Shaders for Hobby-Programmers in GameMaker Studio](https://www.youtube.com/playlist?list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P)
 
 - Links to some good places to get math videos (to watch for fun or future reference):
 
