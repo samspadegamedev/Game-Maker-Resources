@@ -29,3 +29,7 @@
 - [GameMaker: Simplest possible custom alarms](https://yal.cc/gamemaker-custom-alarms/)
 
 - [Shaun Spalding's GMS 2 Debug Mode Tutorial](https://www.youtube.com/watch?v=iJH_uTq9iOQ)
+
+- [Using show_debug_message](https://forum.yoyogames.com/index.php?threads/debug-messages.60051/)
+
+- [Using the map() function](https://forum.yoyogames.com/index.php?threads/map-remap-values-from-one-range-to-another.59699/)
