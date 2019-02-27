@@ -33,3 +33,5 @@
 - [Using show_debug_message](https://forum.yoyogames.com/index.php?threads/debug-messages.60051/)
 
 - [Using the map() function](https://forum.yoyogames.com/index.php?threads/map-remap-values-from-one-range-to-another.59699/)
+
+- [Blendmodes GML Reference](https://www.youtube.com/watch?v=ZrvKmDpVP6I)
