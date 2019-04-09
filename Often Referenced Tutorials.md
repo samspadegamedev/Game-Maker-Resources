@@ -34,7 +34,7 @@
 
 - [Using the map() function](https://forum.yoyogames.com/index.php?threads/map-remap-values-from-one-range-to-another.59699/)
 
-- [Blendmodes GML Reference](https://www.youtube.com/watch?v=ZrvKmDpVP6I)
+- [Blendmodes GML Reference](https://www.gmlscripts.com/forums/viewtopic.php?id=1644)
 
 - [Debugging with GMS2](https://developer.amazon.com/blogs/appstore/post/e7fba237-aa17-46a5-bcf4-f7228a3107d1/debugging-with-gamemaker-studio-2)
 
