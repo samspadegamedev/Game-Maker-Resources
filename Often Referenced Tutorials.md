@@ -39,3 +39,7 @@
 - [Debugging with GMS2](https://developer.amazon.com/blogs/appstore/post/e7fba237-aa17-46a5-bcf4-f7228a3107d1/debugging-with-gamemaker-studio-2)
 
 - [Advanced Debugging and Profiling in GMS2](https://developer.amazon.com/blogs/appstore/post/8731aea0-68ad-4702-af95-343237a78e7e/advanced-debugging-and-profiling-in-gamemaker-studio-2)
+
+- [Git Started with Source Control and GameMaker Studio 2 (Part 1)](https://developer.amazon.com/blogs/appstore/post/d7cfe367-188e-4c89-98b2-1cdeef0c34ab/git-started-with-source-control-and-gamemaker-studio-2-part-1)
+
+- [Git Started with Source Control and GameMaker Studio 2 (Part 2)](https://developer.amazon.com/blogs/appstore/post/3e78a547-3ea4-459f-9131-43ae6e235892/git-started-with-source-control-and-gamemaker-studio-2-part-2)
