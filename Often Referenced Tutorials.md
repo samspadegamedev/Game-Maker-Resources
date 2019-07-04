@@ -43,3 +43,5 @@
 - [Git Started with Source Control and GameMaker Studio 2 (Part 1)](https://developer.amazon.com/blogs/appstore/post/d7cfe367-188e-4c89-98b2-1cdeef0c34ab/git-started-with-source-control-and-gamemaker-studio-2-part-1)
 
 - [Git Started with Source Control and GameMaker Studio 2 (Part 2)](https://developer.amazon.com/blogs/appstore/post/3e78a547-3ea4-459f-9131-43ae6e235892/git-started-with-source-control-and-gamemaker-studio-2-part-2)
+
+- [GMS2 Cameras: As Simple as Possible](https://youtu.be/_g1LQ6aIJFk)
