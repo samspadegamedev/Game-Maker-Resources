@@ -45,3 +45,5 @@
 - [Git Started with Source Control and GameMaker Studio 2 (Part 2)](https://developer.amazon.com/blogs/appstore/post/3e78a547-3ea4-459f-9131-43ae6e235892/git-started-with-source-control-and-gamemaker-studio-2-part-2)
 
 - [GMS2 Cameras: As Simple as Possible](https://youtu.be/_g1LQ6aIJFk)
+
+- [Best Practices When Coding In GameMaker Studio 2](https://www.yoyogames.com/blog/63/best-practices-when-coding-in-gamemaker-studio-2)
