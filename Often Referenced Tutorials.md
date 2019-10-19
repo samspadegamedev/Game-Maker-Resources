@@ -47,3 +47,5 @@
 - [GMS2 Cameras: As Simple as Possible](https://youtu.be/_g1LQ6aIJFk)
 
 - [Best Practices When Coding In GameMaker Studio 2](https://www.yoyogames.com/blog/63/best-practices-when-coding-in-gamemaker-studio-2)
+
+- [Delta time reference](https://forum.yoyogames.com/index.php?threads/a-bit-worried-about-gms2-examples-frame-based-movement.22109/#post-138072)
