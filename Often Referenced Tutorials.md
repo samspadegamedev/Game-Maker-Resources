@@ -52,3 +52,6 @@
 
 - [Variables and Variable Scope](https://docs2.yoyogames.com/source/_build/3_scripting/3_gml_overview/6_scope.html)
 
+- [GMS 2 Fundamentals](https://www.youtube.com/playlist?list=PLmntt6AGizrQVuNJnfDcSH7yLWBkprsTH)
+
+
