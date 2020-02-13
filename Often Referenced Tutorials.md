@@ -54,4 +54,4 @@
 
 - [GMS 2 Fundamentals](https://www.youtube.com/playlist?list=PLmntt6AGizrQVuNJnfDcSH7yLWBkprsTH)
 
-
+- [Use Game Maker more Effectively](https://gloomytoad.weebly.com/)
