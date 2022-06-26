@@ -2,7 +2,7 @@
 
 - [What's the Difference: Objects and Instances](https://forum.yoyogames.com/index.php?threads/whats-the-difference-objects-and-instances.29005/)
 
-- [Addressing Variables in Other Instances](https://docs2.yoyogames.com/source/_build/3_scripting/3_gml_overview/7_addressing_variables.html)
+- [Addressing Variables in Other Instances]([https://docs2.yoyogames.com/source/_build/3_scripting/3_gml_overview/7_addressing_variables.html](https://manual.yoyogames.com/#t=GameMaker_Language%2FGML_Overview%2FAddressing_Variables_In_Other_Instances.htm))
 
 - [with Block Recipe Cards](https://forum.yoyogames.com/index.php?threads/with-block-recipe-cards.25326/)
 
